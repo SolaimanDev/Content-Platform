@@ -1,4 +1,4 @@
-## 🚀 Please follow the instructions for Laravel API 
+## 🚀 Please follow the instructions for Setup  
 1. Navigate to the backend folder:
     cd backend
    
