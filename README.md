@@ -10,7 +10,9 @@
 - run command `php artisan key:generate`  
 - set your email configuration in `.env` file  
 - run command `php artisan migrate`
-- run command `php artisan db:seed`  
+- run command `php artisan db:seed`
+- php artisan key:generate
+- php artisan jwt:secret 
 - run command `php artisan optimize:clear`  
 - run command `php artisan optimize`  
 - run command `php artisan serve`  
